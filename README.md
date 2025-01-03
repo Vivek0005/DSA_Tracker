@@ -6,4 +6,4 @@
 
  The primary goal is to strengthen problem-solving skills and improve coding efficiency.
 
- I only upload the Soultion part and not the entire program.
+ I only upload the Solution part and not the entire program.
